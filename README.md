@@ -1,0 +1,2 @@
+# Birta
+my first programing
